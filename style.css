@@ -25,8 +25,7 @@ h3 {
 }
 
 ul {
-  background-color: antiquewhite;
-  background-size: contain;
+
   align-content: center;
   ;
 
@@ -35,7 +34,6 @@ ul {
 li {
   font-weight: bold;
   height: 20px;
-  margin-block: center;
 
 }
 
@@ -48,12 +46,15 @@ li {
 
 }
 
-.contactinfo {
+div.contactinfo {
   border: solid 5px #4d7c8a;
-  height: 90px; 
+  height: 90px;
   width: 300px;
+  background-color: antiquewhite;
+  align-self: center;
+  display: inline-block;
 }
 
 h3 {
-  border-bottom: #4d7c8a solid 5px ;
+  border-bottom: #4d7c8a solid 5px;
 }
