@@ -26,24 +26,34 @@ h3 {
 
 ul {
   background-color: antiquewhite;
-  background-size:contain;
+  background-size: contain;
   align-content: center;
   ;
-  
+
 }
 
 li {
   font-weight: bold;
   height: 20px;
   margin-block: center;
-  
+
 }
 
 .icons {
-  margin: 10px ;
+  margin: 10px;
 }
 
 #grey {
   color: grey;
 
+}
+
+.contactinfo {
+  border: solid 5px #4d7c8a;
+  height: 90px; 
+  width: 300px;
+}
+
+h3 {
+  border-bottom: #4d7c8a solid 5px ;
 }
