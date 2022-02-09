@@ -1,5 +1,13 @@
+/* alignment */
+body {text-align: center;
+  align-items: center;
+
+}
+
+
 h1 {
-  color: rgb(2, 51, 2);
+  background-color: #4d7c8a;
+  color: #d7edfe;
 }
 
 li.Contact {
